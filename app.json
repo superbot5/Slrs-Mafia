@@ -1,0 +1,20 @@
+{
+  "name": "super music bot සිංහල",
+  "description": "YouTube Music Downloader Bot for Telegram. made by madusha",
+	"stack": "container",
+  "repository": "https://github.com/superbot5/Slrs-Mafia",
+  "keywords": [
+  "python", 
+  "chatbot", 
+  "telegrambot"
+  ],
+  "website": "https://github.com/superbot5/Slrs-Mafia",
+  "success_url": "https://github.com/superbot5/Slrs-Mafia",
+  "env": {
+    "TOKEN": {
+      "description": "botගෙ token එක මෙතන දාන්න",
+      "value": "",
+      "required": true
+    }
+  }
+}
